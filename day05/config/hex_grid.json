@@ -1,0 +1,1 @@
+{"shape": "hexagon", "width": 3.5, "height": 3.5, "cuts": 6, "columns": 4, "min_erosion": 0.1, "max_erosion": 0.2, "min_area": 0.0, "padding": 0.3, "progress": true, "__seed__": 400357663}
